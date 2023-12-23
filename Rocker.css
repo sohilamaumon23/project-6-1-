@@ -317,7 +317,7 @@ left:15px;
 
 
 .discount-item:nth-child(2){
-    background-image: url(../sec6/images/cms-banner-1.jpg);
+    background-image: url(images/cms-banner-1.jpg);
     background-size: cover;
     margin: 0  10px;
     transition: transform 0.2s;
@@ -330,7 +330,7 @@ left:15px;
 } 
 
 .discount-item:nth-child(3){
-    background-image: url(../sec6/images/cms-banner-2.jpg);
+    background-image: url(images/cms-banner-2.jpg);
     background-size: cover;
     margin: 0  10px;
     transition: transform 0.2s;
@@ -353,7 +353,7 @@ left:15px;
 }
 
 .sprite-icon{
-    background-image:url(../sec6/images/service-icon.png) ;
+    background-image:url(images/service-icon.png) ;
     height: 55px;
     background-repeat: no-repeat ;
 }
